@@ -2,18 +2,29 @@
 Results
 
 Part 1
+
 The probability of any random 1-mer is 0.25
+
 The probability of any random 2-mer is 0.0625
+
 The probability of any random 3-mer is 0.015625
+
 The probability of any random 4-mer is 0.00390625
+
 The probability of any random 5-mer is 0.0009765625
+
 The probability of any random 6-mer is 0.000244140625
+
 The probability of any random 7-mer is 6.103515625e-05
+
 The probability of any random 8-mer is 1.52587890625e-05
+
 The probability of any random 9-mer is 3.814697265625e-06
+
 The probability of any random 10-mer is 9.5367431640625e-07
 
 Part 2
+
 1-mer
 1. The possibility for "A" in target file is0.30131621886217774
 2. The possibility for "T" in target file is0.25987164146633307
